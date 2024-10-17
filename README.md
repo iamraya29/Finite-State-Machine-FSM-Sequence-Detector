@@ -29,12 +29,12 @@ The FSM transitions between states based on the input signal as follows:
 
 ## 4. FSM State Diagram
 ![image](https://github.com/user-attachments/assets/ae0c0669-6783-4e33-a1ee-c8925d3fe875)
-  *(Insert a diagram of the FSM states and transitions here.)*
+  *(Diagram of the FSM states and transitions.)*
 
 ## 5. Simulation
 Simulated FSM design using any Verilog simulator **EDA Playground**. The provided testbench applies a clock signal, resets the FSM, and feeds a sequence of inputs (`1101`) to ensure the FSM operates as intended.
 ![image](https://github.com/user-attachments/assets/04459084-522d-4b4a-842c-1932ce2530cb)
-simulator - Yosys 0.37
+*(simulator - Yosys 0.370)*
 
 
 ## 6. Applications of FSM
